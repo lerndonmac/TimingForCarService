@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">пробег замены деталей</string>
+    <string name="carsS">Автомобили.</string>
+    <string name="details">детали</string>
+    <string name="manufact">Производитель</string>
+    <string name="model">Модель</string>
+    <string name="year">год</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="create">Создать</string>
+    <string name="title_activity_part_editor">редактор деталей</string>
+    <string name="part_name">название дитали</string>
+    <string name="part_probegS">пробег установки</string>
+    <string name="part_probegE">пробег для замены детали</string>
+    <string name="part_cost">стоимость детали</string>
+</resources>

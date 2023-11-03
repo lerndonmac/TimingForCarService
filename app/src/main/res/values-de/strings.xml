@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZeitpunktFürAuto</string>
+    <string name="carsS">Autos</string>
+    <string name="details">Details</string>
+    <string name="manufact">Hersteller</string>
+    <string name="model">Modell</string>
+    <string name="year">Jahr</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="create">Erstellen</string>
+    <string name="title_activity_part_editor">PartEditor</string>
+    <string name="part_name">Teilname</string>
+    <string name="part_probegS">Teilweise Pkw-Kilometerstand</string>
+    <string name="part_probegE">Teilweise Auto-Kilometerstand der Änderung</string>
+    <string name="part_cost">Teilkosten</string>
+</resources>

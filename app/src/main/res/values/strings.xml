@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TimingForCar</string>
+    <string name="carsS">Cars</string>
+    <string name="details">Details</string>
+    <string name="manufact">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="year">year</string>
+    <string name="confirm">Confirm</string>
+    <string name="create">Create</string>
+    <string name="title_activity_part_editor">PartEditor</string>
+    <string name="part_name">Part Name</string>
+    <string name="part_probegS">Part Car mileage </string>
+    <string name="part_probegE">Part Car mileage of change</string>
+    <string name="part_cost">Part Cost</string>
+</resources>
